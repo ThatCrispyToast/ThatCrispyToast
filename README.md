@@ -1,1 +1,2 @@
-<img src="https://github-readme-stats.vercel.app/api?username=ThatCrispyToast&theme=dark" align="center">
+I never got around to customizing this readme.
+Maybe one day.
